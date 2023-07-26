@@ -1,1 +1,1 @@
-sorting alogithmssorting alogithms
+sorting alogithms
